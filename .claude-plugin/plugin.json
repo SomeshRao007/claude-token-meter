@@ -1,0 +1,6 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Token use under each reply, and a /tokens pane breaking it down by action",
+  "types": "./types/index.d.ts"
+}
